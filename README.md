@@ -1,6 +1,5 @@
 ## Web Scrapping
 ## Distributed Computing and Big Data
-## Assignment 1
  
 See the problem statement [here](https://github.com/berasaikat/web_scrapping_dcbd/blob/main/DCBD_CMI_Assignment_1__2023_.pdf).
  
